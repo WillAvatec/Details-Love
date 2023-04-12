@@ -1,4 +1,9 @@
 body {
-    box-sizing: border-box;
+    box-sizing: content-box;
     margin: 0;
+}
+
+:root {
+    --strongColor: #273654;
+    --sweetColor: #ebafb4;
 }
