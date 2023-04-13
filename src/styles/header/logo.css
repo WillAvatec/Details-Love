@@ -12,9 +12,7 @@
 #logo {
     width:170px;
     height: auto;
-    margin-left: 2rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
     justify-self: center;
 }
 

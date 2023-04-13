@@ -4,6 +4,7 @@
   }  
 
 .header-container {
+    position: sticky;
     width: 100%;
     height: 200px;
     display: flex;
