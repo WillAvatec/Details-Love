@@ -47,8 +47,23 @@ nav {
 }
 
 nav a {
+    --clr: #ffffff;
+    --outline: 1px solid var(--clr);
+    color: var(--clr);
     text-shadow: 0 0 1px black;
     color: #ffffff;
     text-decoration: none;
     font-weight: 800;
+}
+
+nav a::after, nav a::before {
+    display: block;
+    content: '';
+    border-bottom: var(--outline);
+    transform: scaleX(0);
+    transition: transform 175ms ease-in-out;
+}
+
+nav a:hover::after, nav a:hover::before{
+    transform: scaleX(1);
 }
