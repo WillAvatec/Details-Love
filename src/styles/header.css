@@ -29,6 +29,7 @@
     height: 24px;
     background-color: var(--sweetColor);
     padding: 3px 0;
+    font-weight: 300;
 }
 
 .nav-wrapper {
