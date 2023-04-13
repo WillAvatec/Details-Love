@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Details-Love/static/css/main.91b5906e.css",
+    "main.js": "/Details-Love/static/js/main.5a897057.js",
+    "static/media/logo-no-background.png": "/Details-Love/static/media/logo-no-background.a04bedce80e0fd8ad349.png",
+    "static/media/harmonia-regular.ttf": "/Details-Love/static/media/harmonia-regular.4d9e0b805124c0730913.ttf",
+    "index.html": "/Details-Love/index.html",
+    "main.91b5906e.css.map": "/Details-Love/static/css/main.91b5906e.css.map",
+    "main.5a897057.js.map": "/Details-Love/static/js/main.5a897057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91b5906e.css",
+    "static/js/main.5a897057.js"
+  ]
+}
