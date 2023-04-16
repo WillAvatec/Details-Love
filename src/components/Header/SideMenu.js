@@ -19,10 +19,13 @@ class SideMenu extends Component {
         return (
             <div id="mySidenav" className="sidenav">
                 <a href="#" className="closebtn" onClick={this.closeNav}>&times;</a>
-                <a href="#">Quienes somos</a>
-                <a href="#">Servicios</a>
-                <a href="#">Clientes</a>
-                <a href="#">Contactos</a>
+                <li><a href="#">OFERTAS</a></li>
+                <li><a href="#">DESAYUNOS</a></li>
+                <li><a href="#">ARREGLOS</a></li>
+                <li><a href="#">DE TEMPORADA</a></li>
+                <li><a href="#">OCASIÓN</a></li>
+                <li><a href="#">PERSONALIZADOS</a></li>
+                <li><a href="#">CLIENTES</a></li>
             </div>
         )
     }

@@ -1,14 +1,12 @@
 import { Component } from "react";
+import Slider from "./Main/Slider.js"
 
 class Main extends Component {
-    constructor(props){
-        super(props)
-    }
 
     render(){
         return (
             <div className="main-container">
-                Main Content
+                <Slider />
             </div>
         )
     }
