@@ -29,7 +29,7 @@
 }
 
 #hamburguer-button > div {
-    background: white;
+    background: var(--navColor);
     height: 2.8px;
     width: 100%;
     border-radius: 5px;
