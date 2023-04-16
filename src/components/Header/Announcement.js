@@ -5,7 +5,7 @@ class Announcement extends Component {
     render(){
         return (
             <div className="aviso">
-                <p>¡Comunicate con nosotros! +51 991586055</p>
+                <p>¡Comunicate con nosotros! +51 932714230</p>
             </div>
         )
     }
